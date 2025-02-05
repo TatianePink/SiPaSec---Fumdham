@@ -3,11 +3,11 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Pink";
-const char* password = "pink1234";
+const char* ssid = "correspondente a máquina que está sendo usada";
+const char* password = "correspondente a máquina que está sendo usada";
 
 const char* server = "api.tago.io";
-const char* token = "4d804e12-d24b-422d-b7dd-8c7b872a68d4";
+const char* token = "correspondente ao codigo gerado pela Tago io";
 
 #define RXD2  
 #define TXD2  
